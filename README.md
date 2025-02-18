@@ -19,7 +19,7 @@ On the other hand, the running service does not need lots of RAM (on my system t
 
 You have different options to run this image, after starting the container you can reach the web ui going either to http://youdockerhost:8090 or https://youdockerhost:8092
 
-### Standard configuration
+### Build Steps
 
 Simply said: git clone the repo (or directly download the Dockerfile)
 
