@@ -24,7 +24,7 @@ You have different options to run this image, after starting the container you c
 Simply said: git clone the repo (or directly download the Dockerfile)
 
 ```sh
-git clone https://github.com/psychowood/hyperion.ng-docker
+git clone https://github.com/amtra/Hyperion-NG-Docker
 ```
 docker build the local image
 ```sh
