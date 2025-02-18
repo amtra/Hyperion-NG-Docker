@@ -1,7 +1,7 @@
 ![Hyperion](https://github.com/hyperion-project/hyperion.ng/blob/master/doc/logo_dark.png?raw=true#gh-dark-mode-only)
 ![Hyperion](https://github.com/hyperion-project/hyperion.ng/blob/master/doc/logo_light.png?raw=true#gh-light-mode-only)
 
-##**Original work by [psychowood](https://github.com/psychowood/hyperion.ng-docker)**
+## **Original work by [psychowood](https://github.com/psychowood/hyperion.ng-docker)**
 
 This is a repository which is modified by me for my need. I removed nighty builds as per my need. If you want to explore more please visit [psychowood](https://github.com/psychowood/hyperion.ng-docker) 
 
