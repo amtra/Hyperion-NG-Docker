@@ -3,7 +3,7 @@
 
 Original work by [psychowood](https://github.com/psychowood/hyperion.ng-docker) 
 
-This is a repository which is modified by me for my need
+This is a repository which is modified by me for my need. I removed nighty builds as per my need. If you want to explore more please visit [psychowood](https://github.com/psychowood/hyperion.ng-docker) 
 
 As per psychowood
 1. It's based on the [official Debian 11 (bullseye) docker image](https://hub.docker.com/_/debian)
